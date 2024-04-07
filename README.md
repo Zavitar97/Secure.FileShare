@@ -1,4 +1,4 @@
-# secure-file-sharing-app
+# Secure-File-Sharing-App
 Two-way Secure File Sharing Application on the Local Network
 
 Example Usage:
